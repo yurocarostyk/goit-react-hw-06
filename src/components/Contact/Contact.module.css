@@ -1,0 +1,11 @@
+/* src/components/Contact/Contact.module.css */
+.item {
+    margin-bottom: 10px;
+  }
+  
+  .deleteButton {
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+  }
+  
